@@ -1,9 +1,11 @@
 * Installation and Execution commands
 
 ```
-cd && rm -rf FILE
-git clone --depth=1 https://github.com/Hannan-404/FILE
-cd FILE
+cd && rm -rf File
+git clone https://github.com/IrondiUg/File
+cd File
 chmod 777 FILE64
 ./FILE64
 ```
+
+* This is a cloned repo, I do not own any rights to it.
