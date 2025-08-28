@@ -8,4 +8,4 @@ chmod 777 FILE64
 ./FILE64
 ```
 
-* This is a cloned repo, I do not own any rights to it.
+* This is an edited repo, I do not own any rights to it.
